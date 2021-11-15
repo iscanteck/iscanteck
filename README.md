@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @iscanteck
-- 👀 I’m interested in ... the outdoors, computers, and eating.
-- 🌱 I’m currently learning ... terraform and azure. 
-- 💞️ I’m looking to collaborate on ... 
+
 - 📫 How to reach me ... ian.scanlan@teck.com
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/iscanteck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscanteck&layout=compact&theme=merko" /></a>
+<br/>
 
 <!---
 iscanteck/iscanteck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
